@@ -24,3 +24,7 @@ A neural network consists of:
     
     - **Output layers**: Output of predictions based on the data from the input and hidden layers
 
+
+
+### [Visit the Jupyter Notebook](https://nbviewer.org/github/fbalensiefer/Deep_Learning_Python/blob/5625dc1b9494b9556d4b3fbf5cb240e7c71648cd/Deep_Learning_Python.ipynb)
+
