@@ -18,11 +18,11 @@ I reproduce the Example from [*Michael Grogan*](https://datascienceplus.com/kera
 
 A neural network consists of: 
 
-    - **Input layers**: Layers that take inputs based on existing data
+- **Input layers**: Layers that take inputs based on existing data
     
-    - **Hidden layers**: Layers that use backpropagation to optimise the weights of the input variables in order to improve the predictive power of the model
+- **Hidden layers**: Layers that use backpropagation to optimise the weights of the input variables in order to improve the predictive power of the model
     
-    - **Output layers**: Output of predictions based on the data from the input and hidden layers
+- **Output layers**: Output of predictions based on the data from the input and hidden layers
 
 
 
