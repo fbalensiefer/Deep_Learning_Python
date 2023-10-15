@@ -9,12 +9,12 @@
 
 **Model:** The trained program that predicts outputs given a set of inputs.
 \n
-In this example I will rely on Keras.\n
-Keras is an open-source neural-network library written in Python.\n
-[Keras.io](https://keras.io/)\n
+In this example I will rely on Keras. \n
+Keras is an open-source neural-network library written in Python. \n
+[Keras.io](https://keras.io/) \n
     \n
 I reproduce the Example from [*Michael Grogan*](https://datascienceplus.com/keras-regression-based-neural-networks/)\n
-A neural network consists of:\n
+A neural network consists of: \n
     - **Input layers**: Layers that take inputs based on existing data\n
     - **Hidden layers**: Layers that use backpropagation to optimise the weights of the input variables in order to improve the predictive power of the model\n
     - **Output layers**: Output of predictions based on the data from the input and hidden layers\n
