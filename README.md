@@ -26,5 +26,5 @@ A neural network consists of:
 
 
 
-### [Visit the Jupyter Notebook](https://nbviewer.org/github/fbalensiefer/Deep_Learning_Python/blob/5625dc1b9494b9556d4b3fbf5cb240e7c71648cd/Deep_Learning_Python.ipynb)
+### [Visit the Jupyter Notebook](https://nbviewer.org/github/fbalensiefer/Deep_Learning_Python/blob/master/Deep_Learning_Python_Course.ipynb)
 
